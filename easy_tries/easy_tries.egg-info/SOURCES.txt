@@ -1,8 +1,0 @@
-setup.py
-easy_tries/__init__.py
-easy_tries/trie.py
-easy_tries.egg-info/PKG-INFO
-easy_tries.egg-info/SOURCES.txt
-easy_tries.egg-info/dependency_links.txt
-easy_tries.egg-info/not-zip-safe
-easy_tries.egg-info/top_level.txt
